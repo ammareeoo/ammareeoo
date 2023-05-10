@@ -42,4 +42,3 @@ Code example:
 
 ## Project Based Analytics
 [New York City Property Sales](https://drive.google.com/file/d/1HPvc0ga-ta_YE7nkvGubeMFpTIbGcL_m/view?usp=sharing)
-
