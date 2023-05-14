@@ -31,7 +31,7 @@ Code Example :
 
 Code example:
 [Investment Startup Dataset](https://colab.research.google.com/drive/1rPdSA5ovsRYwZ26X875bSNQLZlu5VYu6?usp=sharing)
-[Deck insight](https://docs.google.com/presentation/d/1soG0UHVsEFPii5_u27Pxp5vz_F9N1u0f8vGxV3rfyGY/edit#slide=id.g213bce2d01b_0_73)
+
 
 
 ## Dataviz Looker
