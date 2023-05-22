@@ -38,7 +38,7 @@ Code example:
 [Samba Commerce Dashboard](https://lookerstudio.google.com/reporting/97647650-8fd0-4f5a-8fce-89ea070e0c60)
 
 ## Dataviz Tableau
-[Samba Commerce Dashboard](https://public.tableau.com/views/IntermediateAssignment_16801124418030/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Samba Commerce Dashboard](https://public.tableau.com/app/profile/ammar.athallah.budiarto)
 
 ## Project Based Analytics
 [New York City Property Sales](https://drive.google.com/file/d/1HPvc0ga-ta_YE7nkvGubeMFpTIbGcL_m/view?usp=sharing)
